@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-:memo: I'm a web developper in PHP.
-:art: My preferred stack is [TALL (Tailwind, Alpine.js, Laravel, and Livewire)](https://tallstack.dev/).
-:necktie: I'm currently working for Vilavi (ex-Groupe Assu 2000).
+- :memo: I'm a web developper in PHP.
+- :art: My preferred stack is [TALL (Tailwind, Alpine.js, Laravel, and Livewire)](https://tallstack.dev/).
+- :necktie: I'm currently working for Vilavi (ex-Groupe Assu 2000).
