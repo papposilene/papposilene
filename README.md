@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- I'm a web developper in PHP.
+- I'm currently working for Vilavi (ex-Groupe Assu 2000)
