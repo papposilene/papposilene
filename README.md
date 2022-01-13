@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 
 - I'm a web developper in PHP.
-- I'm currently working for Vilavi (ex-Groupe Assu 2000)
+- My preferred stack is [TALL (Tailwind, Alpine.js, Laravel, and Livewire)](https://tallstack.dev/).
+- I'm currently working for Vilavi (ex-Groupe Assu 2000).
