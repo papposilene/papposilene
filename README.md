@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 Personal :
-- 🚀 I'm a web developper in PHP.
+- 🚀 I'm a web developper in PHP (and SQL, JS, CSS).
 - 🎨 My preferred stack is [TALL (Tailwind, Alpine.js, Laravel, and Livewire)](https://tallstack.dev/).
 - 👔 I'm currently working for Vilavi (ex-Groupe Assu 2000).
-- 🌱 I'm currently learning COBOL.
+- 🌱 I'm currently learning COBOL and Rust.
 
 How to reach me:
 - 🔗 https://dev.psln.nl
