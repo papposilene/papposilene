@@ -27,9 +27,7 @@ How to reach me:
 - 📫 @papposilene
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=papposilene&show_icons=true&theme=dark&layout=compact" alt="Philippe-Alexandre's GitHub Stats" />
-</a>
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=papposilene&show_icons=true&theme=dark" alt="Philippe-Alexandre's GitHub Stats" /></a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=papposilene&show_icons=true&theme=dark&layout=compact&count_private=true&show_icons=true&hide=css" alt="Philippe-Alexandre's Most Used GitHub Languages" />
-</a>
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=papposilene&show_icons=true&theme=dark&layout=compact&count_private=true&show_icons=true&card_width=270" alt="Philippe-Alexandre's Most Used GitHub Languages" /></a>
