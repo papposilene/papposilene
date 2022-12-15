@@ -22,8 +22,8 @@ Personal :
 - 🌱 I'm currently learning COBOL and Rust.
 
 How to reach me:
-- 🔗 https://dev.psln.nl
-- 📫 dev@psln.nl
+- 🔗 https://www.httpap.dev/
+- 📫 pap@httpap.dev
 - 📫 @papposilene
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
